@@ -20,7 +20,7 @@ This is an asynchronous Python script to generate Hamster Kombat Keys.
 
 1. Clone the repository or download the script.
     ```sh
-    git clone https://github.com/ShafiqSadat/HamsterKeyGen.git
+    https://github.com/vainzew/curutgelud.git
     ```
 2. Create a virtual environment (optional but recommended):
     ```sh
@@ -39,7 +39,7 @@ This is an asynchronous Python script to generate Hamster Kombat Keys.
     ```sh
     python main.py
     ```
-3. Follow the prompts to enter the game number and the number of keys you want to generate.
+3. Follow the prompts to enter the amount of keys ( if you're not using proxy better set to 4 ) it will generate all keys for games in 1 cycle.
 
 ### Using Proxies
 
@@ -84,6 +84,3 @@ If you do not specify a proxy file, the script will attempt to use `proxy.txt` b
 - **generate_key**: Generates a promo key using the client token.
 - **generate_key_process**: Orchestrates the process of generating a key.
 - **main**: Main function to generate multiple keys concurrently.
-
-## License
-This project is licensed under the GPL-3.0 license.
