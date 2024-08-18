@@ -1,6 +1,6 @@
 # HamsterKeyGen
 
-If have any question about this bot just touch me on telegram : t.me/rynalfan
+If have any question about this bot just touch me on telegram : [t.me/rynalfan](https://t.me/rynalfan)
 
 ## Features
 - Generate unique client IDs.
