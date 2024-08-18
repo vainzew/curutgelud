@@ -1,6 +1,6 @@
 # HamsterKeyGen
 
-This is an asynchronous Python script to generate Hamster Kombat Keys.
+If have any question about this bot just touch me on telegram : t.me/rynalfan
 
 ## Features
 - Generate unique client IDs.
